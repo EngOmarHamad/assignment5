@@ -1,16 +1,30 @@
-# assignment5
+# Assignment5 App
 
-A new Flutter project.
+This is a Flutter project for managing tasks using Firestore, featuring various UI elements, animations, and interactions.
 
-## Getting Started
+## Table of Contents
+- [Introduction](#introduction)
+- [Requirements](#requirements)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Features](#features)
+- [Contributing](#contributing)
+- [License](#license)
 
-This project is a starting point for a Flutter application.
+## Introduction
 
-A few resources to get you started if this is your first Flutter project:
+This Flutter app demonstrates Firebase Firestore integration, allowing users to add, edit, and delete tasks. It includes custom animations and UI design elements for an interactive experience.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Requirements
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Flutter SDK (>= 2.x.x)
+- Firebase account and Firestore database
+- A code editor like VS Code or Android Studio
+
+## Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/EngOmarHamad/assignment5.git
+   cd assignment5
